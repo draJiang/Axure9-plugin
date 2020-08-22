@@ -23,7 +23,7 @@
 ![image](https://upload-images.jianshu.io/upload_images/7756382-b81cfd46071497bb?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 使用方法
-下载优化后的 `sitemap.js` 、`init.temp.js` 文件（请看附件）
+下载优化后的 `sitemap.js` 、`init.temp.js` 文件
 
 找到 Axure9 的安装目录，我是装在 C 盘
 `C:\Program Files (x86)\Axure\Axure RP 9\DefaultSettings\Prototype_Files\plugins\sitemap\`
